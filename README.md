@@ -6,7 +6,7 @@ Blender Software (8 Years of Experience) & Programming (10 Years of Experiencie)
 _Lenguages Experience_ |
 ------------ | 
 C
-NASM
+NASM (x86_64)
 GML (GameMaker Lenguage)
 GLSL (OpenGL Shading Lenguage)
 Python
